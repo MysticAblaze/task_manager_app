@@ -1,0 +1,19 @@
+//
+//  Generated file. Do not edit.
+//
+
+// clang-format off
+
+#include "generated_plugin_registrant.h"
+
+#include <connectivity_plus_linux/none.h>
+#include <package_info_plus_linux/none.h>
+
+void fl_register_plugins(FlPluginRegistry* registry) {
+  g_autoptr(FlPluginRegistrar) connectivity_plus_linux_registrar =
+      fl_plugin_registry_get_registrar_for_plugin(registry, "none");
+  none_register_with_registrar(connectivity_plus_linux_registrar);
+  g_autoptr(FlPluginRegistrar) package_info_plus_linux_registrar =
+      fl_plugin_registry_get_registrar_for_plugin(registry, "none");
+  none_register_with_registrar(package_info_plus_linux_registrar);
+}
