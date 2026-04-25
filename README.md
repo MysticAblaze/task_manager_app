@@ -41,7 +41,7 @@ Cross-Platform Application Development course (BITS Pilani WILP).
 ## Setup Instructions
 1. Clone the repo
 ```bash
-   git clone https://github.com/YOUR_USERNAME/task_manager_app.git
+   git clone https://github.com/MysticAblaze/task_manager_app.git
    cd task_manager_app
 ```
 2. Install dependencies
@@ -59,18 +59,19 @@ Cross-Platform Application Development course (BITS Pilani WILP).
 ```
 
 ##  Project Structure
-lib/
-├── main.dart
-├── models/
-│   └── task_model.dart
-├── screens/
-│   ├── login_screen.dart
-│   ├── register_screen.dart
-│   ├── home_screen.dart
-│   └── task_form_screen.dart
-└── services/
-    └──parse_service.dart
+
+    lib/
+    ├── main.dart
+    ├── models/
+    │   └── task_model.dart
+    ├── screens/
+    │   ├── login_screen.dart
+    │   ├── register_screen.dart
+    │   ├── home_screen.dart
+    │   └── task_form_screen.dart
+    └── services/
+        └── parse_service.dart
 
 ## Author
-Your Name – 2024mt13064@wilp.bits-pilani.ac.in
+Ayansh – 2024mt13064@wilp.bits-pilani.ac.in
 BITS Pilani WILP
