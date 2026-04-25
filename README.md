@@ -72,5 +72,5 @@ lib/
     └──parse_service.dart
 
 ## Author
-Your Name – 2024mt13064@wilp.bits-pilani.ac.in
+Ayansh – 2024mt13064@wilp.bits-pilani.ac.in
 BITS Pilani WILP
